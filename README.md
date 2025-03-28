@@ -2,3 +2,4 @@ Huffman Coding is an efficient lossless data compression algorithm. It reduces t
 
 
 ![image](https://github.com/user-attachments/assets/c05e3624-4a64-4481-b626-0951eacb89ea)
+
